@@ -3,7 +3,7 @@ package studentexample;
 
 /**
  *
- * @author mtama
+ * @author mtama 2021
  */
 public class PartTimeStudent extends  Student
 {
