@@ -7,6 +7,7 @@ package studentexample;
  */
 public class PartTimeStudent extends  Student
 {
+    //This is done
     private int numCourses;
 
     public PartTimeStudent(int numCourses, String name) {
